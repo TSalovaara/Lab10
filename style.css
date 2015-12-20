@@ -1,0 +1,39 @@
+# Lab13
+@charset "UTF-8";
+/* CSS Document */
+
+.intro {
+    color: black;
+    border-style: solid;
+	border-width: 1px;
+	
+}
+.spotlight { 
+	background-color:yellow;
+}
+p {
+	font-family: sans-serif;
+	font-size: 12px;
+	text-decoration:line-through;
+	text-transform:none;
+
+}
+h1{ 
+text-transform:uppercase;
+margin: 20px;
+padding: 40px;
+border-width: 5px;
+border-style: dashed;
+
+
+
+}
+h2, h1, p {
+    color:rgba(39,76,3,1.00);
+}
+a:hover {
+    text-transform: uppercase;
+}
+body {
+    background: white url(http://entertainmenttechnology.github.io/Wilson-MTEC1003/resources/img/lab-13-face.png) repeat top right;
+}
