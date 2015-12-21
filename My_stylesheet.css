@@ -1,0 +1,24 @@
+# Lab14
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background: white url(http://images.wikia.com/adventuretimewithfinnandjake/images/3/3a/S1e1_flip_out.png) repeat top right;
+	color:red;
+}
+family-font: sans-serif;
+h1, h2 {
+	color:red;
+	family-font: sans-serif;
+
+}
+p{
+	margin:20px;
+	family-font: sans-serif;
+	color:red;
+
+}
+a:active{
+	border:black;
+	border-width:1px;
+}
